@@ -39,7 +39,7 @@ CLK0_OPTIONS = \
   --clkout2_name=clk_125a \
   --clkout2=125 \
   --clkout3_name=clk_125p \
-  --clkout3=125 --phase3=90 \
+  --clkout3=125 --phase3=120 \
 
 # blue 85F:
 #  90 ok, recommended (center)
